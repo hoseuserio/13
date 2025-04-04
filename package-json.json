@@ -1,0 +1,13 @@
+{
+  "name": "macos-data-collector",
+  "version": "1.0.0",
+  "description": "Утилита для сбора и отправки данных с macOS",
+  "main": "collect-and-send.js",
+  "scripts": {
+    "start": "node collect-and-send.js",
+    "collect": "node collect-and-send.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
